@@ -1,7 +1,7 @@
-# Project 1: Sharpe Ratio
+# Project 1: Stock Analysis
 
 some description!
 
 ##Subheader
 
-ncwciuoc
+text
